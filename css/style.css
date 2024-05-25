@@ -439,7 +439,7 @@ img.faq
 		width: 255px;
 	}
 }
-@media only screen and (min-width: 1300px) 
+/*@media only screen and (min-width: 1300px) 
 {
 	div.box
 	{
@@ -453,8 +453,7 @@ img.faq
 	{
 		width: calc(32% - 10px);
 	}
-
-}
+}*/
 
 div.cvEntry
 {
