@@ -1,0 +1,20 @@
+---
+layout : layout
+title : Publications
+pagetitle : Publications
+---
+ 
+<div id="publications">
+	<p>
+		<b>Publikationen werden geladen...</b>
+	</p>
+	<p><small>
+		Sollte die Publikationsliste nicht erscheinen, finden Sie alternativ meine Publikationen unter meinem <a href="https://scholar.google.at/citations?user=Ytq5hzAAAAAJ" target="_blank">Google Scholar Profil</a>.
+	</small></p>
+</div> 
+<script type="text/javascript">
+window.onload = function()
+{
+	queryPublications(function callback(publications){createPublications(publications, "publications");});
+};
+</script>
