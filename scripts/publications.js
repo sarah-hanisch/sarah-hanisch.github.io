@@ -1,4 +1,4 @@
-var requestURL = "https://langmo.github.io/hanisch/publications.list";
+var requestURL = "https://sarah-hanisch.github.io/publications.list";
 var publications = null;
 function queryPublications(callback)
 {
