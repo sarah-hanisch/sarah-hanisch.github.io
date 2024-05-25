@@ -1,13 +1,119 @@
 [
 {
-	"id": "Hanisch2020",
+	"id": "Hanisch2022a",
+	"authors": ["S Hanisch"],
+	"year": "2022",
+	"title": "Searching for sweetness: women’s mobile lives in China and Lesotho",
+	"type": "monografie",
+	"source": "Hong Kong University Press",
+	"url": "https://doi.org/10.5790/hongkong/9789888754014.001.0001"
+},
+{
+	"id": "Hanisch2023a",
+	"authors": ["S Hanisch"],
+	"year": "2023",
+	"title": "African students in Taiwan: intergovernmental cooperation, internationalization of higher education and everyday experiences",
+	"type": "edited_volumes",
+	"source": "In: Cawley, Kevin und Julia Schneider, Transnational East Asia studies. Liverpool University Press",
+	"location": "217-238"
+},
+{
+	"id": "Hanisch2017a",
+	"authors": ["S Hanisch"],
+	"year": "2017",
+	"title": "Textile production in East Africa: cooperation through the experiences of Tanzanian managers",
+	"type": "edited_volumes",
+	"source": "In: Röschenthaler, U. und A. Jedlowski (Eds.), Mobility between Africa, Asia and Latin America: economic networks and cultural interactions, London: Zed Books",
+	"location": "220-235"
+},
+{
+	"id": "Hanisch2020a",
 	"authors": ["S Hanisch"],
 	"year": "2020",
 	"title": "Chinese migration to Lesotho as a springboard towards a better future?",
-	"type": "regular",
+	"type": "article",
 	"source": "Africa Today",
-	"location": "116(8), 2821-2830",
-	"url": "66 (3-4), 45-64",
-	"preprint": "https://muse.jhu.edu/pub/3/article/761482/summary"
+	"location": "66 (3-4), 45-64",
+	"url": "https://muse.jhu.edu/pub/3/article/761482/summary"
+},
+{
+	"id": "Hanisch2013a",
+	"authors": ["S Hanisch"],
+	"year": "2013",
+	"title": "At the margins of the economy? Chinese migrants in Lesotho’s wholesale and retail sector",
+	"type": "article",
+	"source": "Africa Spectrum",
+	"location": "48 (3), 85-97"
+},
+{
+	"id": "Hanisch2022b",
+	"authors": ["S Hanisch"],
+	"year": "2022",
+	"title": "Chinas Impfdiplomatie in Afrika",
+	"type": "comment",
+	"source": "Center für Strategische Analysen, CSA Kompakt",
+	"location": "8"
+},
+{
+	"id": "Hanisch2019a",
+	"authors": ["S Hanisch"],
+	"year": "2019",
+	"title": "Jenseits der großen Geopolitik—Einblicke in die chinesische Migration nach Lesotho",
+	"type": "comment",
+	"source": "Austrian Chinese Business Association, Jahresbericht",
+	"location": "90-94"
+},
+{
+	"id": "Hanisch2019b",
+	"authors": ["S Hanisch"],
+	"year": "2019",
+	"title": "一个中国故事 ——还是一个有着中式扭曲的阿根廷故事? (A Chinese story or a story with an Argentinian twist?)",
+	"type": "comment",
+	"source": "春季刊",
+	"location": "89-91"
+},
+{
+	"id": "Hanisch2016a",
+	"authors": ["S Hanisch"],
+	"year": "2016",
+	"title": "Saubere Freundschaft",
+	"type": "comment",
+	"source": "Südwind Magazin",
+	"location": "(12), 16-17"
+},
+{
+	"id": "Hanisch2015a",
+	"authors": ["S Hanisch"],
+	"year": "2015",
+	"title": "Leben in Unsicherheit",
+	"type": "comment",
+	"source": "Afrika Süd",
+	"location": "(4), 24-25"
+},
+{
+	"id": "Hanisch2022c",
+	"authors": ["S Hanisch"],
+	"year": "2022",
+	"title": "Gendered and generational approach to migration and social mobility between Lesotho and Fuqing",
+	"type": "interview",
+	"source": "Interview durch Dr. Cheryl Mei-ting Schmitz, Max-Plank Institut"
+},
+{
+	"id": "Hanisch2020b",
+	"authors": ["S Hanisch"],
+	"year": "2020",
+	"title": "Miriam Driessen: Tales of hope, tastes of bitterness",
+	"type": "review",
+	"source": "China Perspectives",
+	"location": "1, 86-88"
+},
+{
+	"id": "Hanisch2015b",
+	"authors": ["S Hanisch"],
+	"year": "2015",
+	"title": "Crais Clifton and Thomas V. McClendon, (Eds.): The South Africa reader – history, culture, politics",
+	"type": "review",
+	"source": "African Studies Quarterly",
+	"location": "15 (1), 165-167"
 }
 ]

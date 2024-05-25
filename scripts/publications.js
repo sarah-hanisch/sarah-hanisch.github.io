@@ -78,28 +78,28 @@ function openPublication(publicationID)
 }
 var pubTypes = [
 	{
-		"id": "preparation",
-		"name": "In Print/in Review/Submitted"
+		"id": "monografie",
+		"name": "Monografie (peer-reviewed)"
 	},
 	{
-		"id": "regular",
-		"name": "Regular Papers"
+		"id": "edited_volumes",
+		"name": "Beiträge in Sammelbänden (peer-reviewed)"
 	},
 	{
-		"id": "conference",
-		"name": "Conference Papers"
+		"id": "article",
+		"name": "Artikel (peer-reviewed)"
 	},
 	{
-		"id": "bookchapter",
-		"name": "Book Chapters"
+		"id": "comment",
+		"name": "Publikationen und Kommentare in Fachzeitschriften (eingeladen durch Herausgeber)"
 	},
 	{
-		"id": "patent",
-		"name": "Patents"
+		"id": "interview",
+		"name": "Interviews"
 	},
 	{
-		"id": "phdthesis",
-		"name": "PHD Thesis"
+		"id": "review",
+		"name": "Buchrezensionen"
 	}
 ];
 function createPublications(publications, parentElementID)
