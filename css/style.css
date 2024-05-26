@@ -484,23 +484,12 @@ div.cvDescription
 	{
 		float: left;
 	}
-	div.cvTitle::after
-	{
-		content: ", ";
-		font-weight: normal;
-		font-size: 10pt;
-	}
 	div.cvPlace
 	{
-		float: left;
-		margin-left: 5px;
+		clear: both;
 	}
 	div.cvTime
 	{
 		float: right;
-	}
-	div.cvDescription
-	{
-		clear: both;
 	}
 }
